@@ -1,9 +1,9 @@
 # 🧪 QA Test Suite: Katalon Automated Recorder – Web App Permissions Project
 
 **Author**: Michael Blair  
-**Framework**: [Katalon Recorder (Chrome Extension)](https://chromewebstore.google.com/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)  
-**Web Driver**: https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win64/chromedriver-win64.zip
-**Project Status**: Archived (test site deprecated)
+**Framework**: [Katalon Recorder (Chrome Extension)](https://chromewebstore.google.com/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid)    
+**Web Driver**: https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win64/chromedriver-win64.zip  
+**Project Status**: Archived
 
 ---
 
@@ -40,6 +40,15 @@ Each bug includes supporting test case IDs, reproduction steps, and suggestions 
 
 ---
 
+## 🎥 Demo Video
+
+Click the thumbnail below to watch the demo video showing test suite execution:
+
+[![Watch the demo](https://img.youtube.com/vi/xpSf98YR8XE/0.jpg)](https://youtu.be/xpSf98YR8XE)
+
+Or watch directly on [YouTube →](https://youtu.be/xpSf98YR8XE)
+
+---
 ## 🧑‍🔬 How It Was Tested
 
 - **Test Environment**: Chrome browser on 1920x1080 resolution, Katalon Recorder extension installed
